@@ -81,7 +81,7 @@ Here’s a quick look at the default keybinds:
 
 ### 2025
 - **21 Jan 2025**: Improved performance; fixed skin preview bug. 🐞
-- **05 Jan 2025**: Added support for new skins from patch 13.24. 🎉
+- **05 Jan 2025**: Added support for new skins from patch. 🎉
 
 ### 2024
 - **10 Dec 2024**: Holiday-themed skins and UI overhaul! 🎅
