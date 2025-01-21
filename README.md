@@ -85,7 +85,7 @@ Here’s a quick look at the default keybinds:
 
 ### 2024
 - **10 Dec 2024**: Holiday-themed skins and UI overhaul! 🎅
-- **01 Nov 2024**: Fixed compatibility with MacOS.
+- **01 Nov 2024**: Fixed compatibility
 - **15 Aug 2024**: Introduced randomizer feature for ultimate chaos. 🔀
 - **30 May 2024**: Improved UI and added community skin submissions.
 - **01 Feb 2024**: Initial release of the 2024 version! 🚀
